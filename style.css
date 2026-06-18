@@ -1,0 +1,9 @@
+body{font-family:Arial,sans-serif;background:#111;color:#fff;text-align:center;margin:0;padding:20px}
+.hidden{display:none}
+.card{max-width:320px;margin:100px auto;background:#222;padding:20px;border-radius:12px}
+input,button{padding:12px;margin:8px;border-radius:8px;border:none}
+button{cursor:pointer;font-weight:bold}
+.wheel-wrap{position:relative;display:inline-block}
+.pointer{position:absolute;left:50%;top:-5px;transform:translateX(-50%);
+width:0;height:0;border-left:18px solid transparent;border-right:18px solid transparent;border-top:40px solid #fff;z-index:10}
+canvas{max-width:90vw;height:auto;background:#fff;border-radius:50%}
