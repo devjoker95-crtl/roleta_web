@@ -8,5 +8,3 @@ const OPCOES = [
  'João',
  'Maria'
 ];
-
-Abra index.html ou publique no GitHub Pages.
